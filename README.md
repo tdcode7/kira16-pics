@@ -8,4 +8,6 @@ Files:
  - cranger-kirmes-722823_takeout_2_312x110_LizenzInfo.txt
  - cranger-kirmes-722820__1001x1334_for_ip6_LizenzInfo.txt
  - oktoberfest-968238_1920_takeout_312x111_LizenzInfo.txt
+ - iomtakeout_312px_cannstatter_wasen_fruchtsaeule.jpg
+ - iomtakeout_312px_cannstatter_wasen_fruchtsaeule_LizenzInfo.txt
 
